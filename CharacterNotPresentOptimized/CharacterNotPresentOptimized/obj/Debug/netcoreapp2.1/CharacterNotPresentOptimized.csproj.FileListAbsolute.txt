@@ -1,0 +1,11 @@
+C:\Users\Harpreet_DF\source\repos\CharacterNotPresentOptimized\CharacterNotPresentOptimized\bin\Debug\netcoreapp2.1\CharacterNotPresentOptimized.deps.json
+C:\Users\Harpreet_DF\source\repos\CharacterNotPresentOptimized\CharacterNotPresentOptimized\bin\Debug\netcoreapp2.1\CharacterNotPresentOptimized.runtimeconfig.json
+C:\Users\Harpreet_DF\source\repos\CharacterNotPresentOptimized\CharacterNotPresentOptimized\bin\Debug\netcoreapp2.1\CharacterNotPresentOptimized.runtimeconfig.dev.json
+C:\Users\Harpreet_DF\source\repos\CharacterNotPresentOptimized\CharacterNotPresentOptimized\bin\Debug\netcoreapp2.1\CharacterNotPresentOptimized.dll
+C:\Users\Harpreet_DF\source\repos\CharacterNotPresentOptimized\CharacterNotPresentOptimized\bin\Debug\netcoreapp2.1\CharacterNotPresentOptimized.pdb
+C:\Users\Harpreet_DF\source\repos\CharacterNotPresentOptimized\CharacterNotPresentOptimized\obj\Debug\netcoreapp2.1\CharacterNotPresentOptimized.csprojAssemblyReference.cache
+C:\Users\Harpreet_DF\source\repos\CharacterNotPresentOptimized\CharacterNotPresentOptimized\obj\Debug\netcoreapp2.1\CharacterNotPresentOptimized.csproj.CoreCompileInputs.cache
+C:\Users\Harpreet_DF\source\repos\CharacterNotPresentOptimized\CharacterNotPresentOptimized\obj\Debug\netcoreapp2.1\CharacterNotPresentOptimized.AssemblyInfoInputs.cache
+C:\Users\Harpreet_DF\source\repos\CharacterNotPresentOptimized\CharacterNotPresentOptimized\obj\Debug\netcoreapp2.1\CharacterNotPresentOptimized.AssemblyInfo.cs
+C:\Users\Harpreet_DF\source\repos\CharacterNotPresentOptimized\CharacterNotPresentOptimized\obj\Debug\netcoreapp2.1\CharacterNotPresentOptimized.dll
+C:\Users\Harpreet_DF\source\repos\CharacterNotPresentOptimized\CharacterNotPresentOptimized\obj\Debug\netcoreapp2.1\CharacterNotPresentOptimized.pdb
